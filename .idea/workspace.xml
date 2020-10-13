@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b9b7d779-e24f-4648-ba40-904e843e16bf" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package.json" />
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1ilsgpRH2epJa0oVKluGYbX6ljs" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.19.0" />
+    <property name="javascript.nodejs.core.library.typings.version" value="12.12.67" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/07__WebAPI/07__js拓展资料" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.externalResources" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Java_Script_Code_of_Webstorm\day03_css\06__前端基本功\09__DOM_事件\01__功能实现" />
+      <recent name="E:\Java_Script_Code_of_Webstorm\day03_css\06__前端基本功\04__JS_基础语法" />
+      <recent name="E:\Java_Script_Code_of_Webstorm\day03_css\bootstrap" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Java_Script_Code_of_Webstorm\day03_css\07__WebAPI\07__js拓展资料" />
+      <recent name="E:\Java_Script_Code_of_Webstorm\day03_css\07__WebAPI\06__Webapi动画回到顶部" />
+      <recent name="E:\Java_Script_Code_of_Webstorm\day03_css\07__WebAPI\05__Webapi特效与动画" />
+      <recent name="E:\Java_Script_Code_of_Webstorm\day03_css\07__WebAPI\04__Webapi事件与BOW" />
+      <recent name="E:\Java_Script_Code_of_Webstorm\day03_css\07__WebAPI\03__Webapi" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="test.js" type="NodeJSConfigurationType" nameIsGenerated="true" working-dir="$PROJECT_DIR$/88_node_js">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b9b7d779-e24f-4648-ba40-904e843e16bf" name="Default Changelist" comment="" />
+      <created>1602493626756</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602493626756</updated>
+      <workItem from="1602493631272" duration="1584000" />
+      <workItem from="1602558082976" duration="3025000" />
+      <workItem from="1602561329400" duration="13268000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="67" width="1089" height="739" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602582767036">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" width="1089" height="739" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1602582767036" />
+    <state x="474" y="212" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602577576037">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="474" y="212" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1602577576037" />
+    <state width="1515" height="270" key="GridCell.Tab.0.bottom" timestamp="1602582762548">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="270" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1602582762548" />
+    <state width="1515" height="270" key="GridCell.Tab.0.center" timestamp="1602582762548">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="270" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1602582762548" />
+    <state width="1515" height="270" key="GridCell.Tab.0.left" timestamp="1602582762548">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="270" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1602582762548" />
+    <state width="1515" height="270" key="GridCell.Tab.0.right" timestamp="1602582762548">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="270" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1602582762548" />
+    <state width="1515" height="270" key="GridCell.Tab.1.bottom" timestamp="1602582762548">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="270" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1602582762548" />
+    <state width="1515" height="270" key="GridCell.Tab.1.center" timestamp="1602582762548">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="270" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1602582762548" />
+    <state width="1515" height="270" key="GridCell.Tab.1.left" timestamp="1602582762548">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="270" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1602582762548" />
+    <state width="1515" height="270" key="GridCell.Tab.1.right" timestamp="1602582762548">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="270" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1602582762548" />
+    <state width="1515" height="270" key="GridCell.Tab.2.bottom" timestamp="1602582762548">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="270" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1602582762548" />
+    <state width="1515" height="270" key="GridCell.Tab.2.center" timestamp="1602582762548">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="270" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1602582762548" />
+    <state width="1515" height="270" key="GridCell.Tab.2.left" timestamp="1602582762548">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="270" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1602582762548" />
+    <state width="1515" height="270" key="GridCell.Tab.2.right" timestamp="1602582762548">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="270" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1602582762548" />
+    <state width="1515" height="270" key="GridCell.Tab.3.bottom" timestamp="1602582762548">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="270" key="GridCell.Tab.3.bottom/0.0.1536.824@0.0.1536.824" timestamp="1602582762548" />
+    <state width="1515" height="270" key="GridCell.Tab.3.center" timestamp="1602582762548">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="270" key="GridCell.Tab.3.center/0.0.1536.824@0.0.1536.824" timestamp="1602582762548" />
+    <state width="1515" height="270" key="GridCell.Tab.3.left" timestamp="1602582762548">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="270" key="GridCell.Tab.3.left/0.0.1536.824@0.0.1536.824" timestamp="1602582762548" />
+    <state width="1515" height="270" key="GridCell.Tab.3.right" timestamp="1602582762548">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="270" key="GridCell.Tab.3.right/0.0.1536.824@0.0.1536.824" timestamp="1602582762548" />
+    <state x="264" y="54" key="SettingsEditor" timestamp="1602561423594">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="264" y="54" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1602561423594" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1602575087304">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1602575087304" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1602560839363">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1602560839363" />
+  </component>
+</project>
